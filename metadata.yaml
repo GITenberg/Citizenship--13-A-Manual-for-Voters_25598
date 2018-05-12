@@ -1,0 +1,29 @@
+_repo: Citizenship--13-A-Manual-for-Voters_25598
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25598-h/images/cover.png
+creator:
+  author:
+    agent_name: Cromwell, Emma Guy
+    birthdate: 1865
+    deathdate: 1952
+    gutenberg_agent_id: '31444'
+    url: http://www.gutenberg.org/2009/agents/31444
+    wikipedia: http://en.wikipedia.org/wiki/Emma_Guy_Cromwell
+description: ''
+gutenberg_issued: '2008-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- Handbooks, manuals, etc.'
+- !lcc 'JK'
+- !lcsh 'Women -- Suffrage -- United States'
+- !lcsh 'Kentucky -- Politics and government'
+title: 'Citizenship: A Manual for Voters'
+url: http://www.gutenberg.org/ebooks/25598
