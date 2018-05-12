@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31444
     wikipedia: http://en.wikipedia.org/wiki/Emma_Guy_Cromwell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25598#Citizenship--13-A-Manual-for-Voters
 gutenberg_issued: '2008-05-25'
 gutenberg_type: Text
 identifiers:
